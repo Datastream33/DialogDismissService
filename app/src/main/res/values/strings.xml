@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">DialogDismiss</string>
+    <string name="app_suspended_title">App isn\'t available</string>
+</resources>
