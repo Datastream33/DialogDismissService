@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_suspended_title">App non disponibile</string>
+    <string name="app_suspended_title">Questa operazione è gestita da Shell.</string>
 </resources>

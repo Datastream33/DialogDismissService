@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name" translatable="false">DialogDismiss</string>
-    <string name="app_suspended_title">App isn\'t available</string>
+    <string name="app_suspended_title">This is managed by Shell.</string>
 </resources>

@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_suspended_title">このアプリは使用できません</string>
+    <string name="app_suspended_title">これは Shell によって管理されます。</string>
 </resources>
